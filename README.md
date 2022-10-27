@@ -4,4 +4,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: samodubovec@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samo8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samo8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
